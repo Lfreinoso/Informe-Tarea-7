@@ -13,23 +13,32 @@ NRC: 10067
 # 1. OBJETIVOS
  OBJETIVO GENERAL
   
-
+Identificar conceptos esenciales de la materia de fundamentos de circuitos eléctricos por medio de una lectura comprensiva en distintas fuentes bibliográficas que contengan información verídica, tomando como referencia el libro de Floyd, para aumentar el conocimiento y plasmarlo en un documento escrito tipo informe.
 
  OBJETIVOS ESPECÍFICOS
  
+- Analizar conceptos básicos de los temas inductores, así como, transformadores, correspondientes al capítulo 13 y 14 del libro de Floyd, que nos adentren al mundo de los circuitos eléctricos.
 
+- Revisar distintas paginas web, para tener un mejor enfoque y conocimiento en base al tema a tratar.
+
+- Realizar un informe que contenga solo información importante, para ayudar al lector a comprender conceptos de los circuitos eléctricos
 
 
 # 2. MARCO TEÓRICO 
 
 - CAPÍTULO 13
 
+![image](https://user-images.githubusercontent.com/116655812/217371956-111092b6-217b-4dc3-802a-a36448817816.png)
+
+![image](https://user-images.githubusercontent.com/116655812/217372512-b6291dbf-9493-40d8-9f44-248640476dba.png)
+
+![image](https://user-images.githubusercontent.com/116655812/217373277-3f6f1e45-aa75-4d2d-a795-119fd8235670.png)
 
 
 
 - CAPÍTULO 14
 
-
+![image](https://user-images.githubusercontent.com/116655812/217372839-7a0a02e2-86db-46ab-852e-89027fdf3409.png)
 
 
 # 3. EXPLICACIÓN Y RESOLUCION DE PROBLEMAS 
@@ -261,10 +270,11 @@ Se extrae corriente primaria en exceso, lo que causaría que potencialmente se q
 
 # 4. VIDEO 
 
-
+https://youtu.be/uwAgarlBWWI
 
 
 # 5. CONCLUSIONES 
+
 - Se determinó que la caída del potencial en los inductores toma el mismo valor y al comparar estas con la total, se halla que la tensión ejercida a una asociación de inductores conectados en serie es igual a la suma del a caída de potencia en cada uno de los inductores más la fuerza contra el electromotriz autoinducida.
 
 - Se confirmó la valides de las leyes de ohm en un circuito de corriente alterna en serie haciendo que esta se pueda aplicar a este tipo de circuitos.
